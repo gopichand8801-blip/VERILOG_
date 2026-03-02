@@ -1,0 +1,7 @@
+https://www.edaplayground.com/x/9YBk   ----BINARY TO GRAY 
+
+https://www.edaplayground.com/x/j5Y8------- GRAY TO BINARY
+
+https://www.edaplayground.com/x/FcSb------- d flip flop 
+
+https://www.ewskills.com/task/4-to-1-multiplexer-by-module-instantiation/242/solution--------------4 to 1 MUX
